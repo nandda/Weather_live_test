@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.here.platform.location:location-inmemory_2.11:0.20.142">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/location/location-inmemory_2.11/0.20.142/location-inmemory_2.11-0.20.142.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/location/location-inmemory_2.11/0.20.142/location-inmemory_2.11-0.20.142-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/location/location-inmemory_2.11/0.20.142/location-inmemory_2.11-0.20.142-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
